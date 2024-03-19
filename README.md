@@ -21,7 +21,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-- **Building and Hosting Personal Website through AWS**
+- [**Building and Hosting Personal Website through AWS**](https://github.com/david-p-sorensen/aws-cloud-resume)
 
   - Built Static website using HTML, CSS, and a bit of JavaScript, and hosted it through Amazon S3 bucket
   - Deployed website as CloudFront distribution, ensuring HTTPS, and created an alternate domain name using Route 53
