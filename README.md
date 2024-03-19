@@ -7,7 +7,7 @@
 
 - **State of Maryland Certificate of Merit (high school valedictorian)**, May 2023
 
-- **AWS Certified Cloud Practitioner (CLF-C02)**, Jan 2024
+- [**AWS Certified Cloud Practitioner (CLF-C02)**](https://www.credly.com/badges/8ce38848-bfdb-44f2-ae0b-cad3c7df4dea/public_url), Jan 2024
 
 <h2>👨‍💼 Work Experience</h2>
 
