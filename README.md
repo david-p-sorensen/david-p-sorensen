@@ -1,5 +1,5 @@
 <h1>Hi, I'm David!</h1>
-<h2>Education & Certifications</h2>
+<h2>👨‍🎓 Education & Certifications</h2>
 
 - **University of Maryland, College Park** – B.S. in Computer Science, Expected May 2026
   - GPA: 3.7
@@ -9,7 +9,7 @@
 
 - **AWS Certified Cloud Practitioner (CLF-C02)**, Jan 2024
 
-<h2>Work Experience</h2>
+<h2>👨‍💼 Work Experience</h2>
 
 - **AI Software Developer – Intellectmap**, Feb 2023 – Present
   - Installed, fine-tuned, and embedded open-source large language models to improve company's AI chatbot
@@ -19,7 +19,7 @@
 - **Math Tutor – The Avalon School**, Jul 2021 – Jul 2023
   - Tutored Algebra and Geometry to high schoolers
 
-<h2>Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - **Building and Hosting Personal Website through AWS**
 
