@@ -1,4 +1,3 @@
-<h1>Hi, I'm David!</h1>
 <h2>👨‍🎓 Education & Certifications</h2>
 
 - **University of Maryland, College Park** – B.S. in Computer Science, Expected May 2026
