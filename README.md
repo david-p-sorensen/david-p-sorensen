@@ -34,7 +34,7 @@
   - Ran PowerShell script to create 1,000 users on the internal server
   - Created another virtual machine with VirtualBox, connected it to the internal server, and logged in as one of the users
 
-- [**Azure Sentinel (SIEM) Honeypot**](https://github.com/david-p-sorensen/Azure-Sentinel-Honeypot-SIEM)
+- [**Azure Sentinel Honeypot SIEM**](https://github.com/david-p-sorensen/Azure-Sentinel-Honeypot-SIEM)
 
   - Created virtual machine through Azure with public routable IP address and disabled firewalls to attract hackers from across the globe to attempt logging in
   - Configured Log Analytics workspace to extract IP addresses of hackers and convert them into geographic data using PowerShell script
