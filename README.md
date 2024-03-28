@@ -11,12 +11,12 @@
 <h2>👨‍💼 Work Experience</h2>
 
 - **AI Software Developer – Intellectmap**, Feb 2023 – Present
-  - Installed, fine-tuned, and embedded open-source large language models to improve company's AI chatbot
-  - Worked with source code of large language models to feed inputs and outputs into other programs
-  - Created and deployed complex functions involving linear transformations into Excel
+  - Facilitated a transition from reliance on OpenAI to leveraging an open-source large language model for our chatbot, enhancing privacy and removing API usage fees
+  - Embed company-specific data into the chatbot using Retrieval Augmented Generation, ensuring tailored and dynamic responses for users
+  - Designed extensive Excel functions, converting geographic data into coordinates on customizable map projections, streamlining visualization processes for enhanced decision-making
 
 - **Math Tutor – The Avalon School**, Jul 2021 – Jul 2023
-  - Tutored Algebra and Geometry to high schoolers
+  - Tutored over 50 high-schoolers, enabling some of them to skip entire math courses
 
 <h2>👨‍💻 Projects</h2>
 
