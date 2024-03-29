@@ -21,10 +21,9 @@
 <h2>👨‍💻 Projects</h2>
 
 - [**AWS Hosted Portfolio Website**](https://github.com/david-p-sorensen/aws-cloud-resume)
-
-  - Built Static website using HTML, CSS, and a bit of JavaScript, and hosted it through Amazon S3 bucket
-  - Deployed website as CloudFront distribution, ensuring HTTPS, and created an alternate domain name using Route 53
-  - Created DynamoDB table and Lambda function in Python to count website views, and displayed it using JavaScript
+  - Built a static website with HTML, CSS, and JavaScript, hosting it with an Amazon S3 bucket
+  - Deployed the website as a CloudFront distribution, using an HTTPS protocol, and created an alternate domain name using Route 53
+  - Created a DynamoDB table and a Lambda function in Python to count website views, and display them using JavaScript
 
 - [**Active Directory Home Lab**](https://github.com/david-p-sorensen/Active-Directory-Home-Lab)
 
