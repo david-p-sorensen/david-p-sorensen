@@ -1,7 +1,7 @@
 <h2>👨‍🎓 Education & Certifications</h2>
 
 - **University of Maryland, College Park** | Expected May 2027
-  - **B.S. in Computer Science, Economics, and Mathematics**
+  - **B.S. in Computer Science, Mathematics, and Economics**
     - **GPA**: 3.8
     - **Relevant Coursework:** Computer Programming, Data Science, Machine Learning, Statistics, Data Structures, Algorithms, Microeconomic and Macroeconomic Analysis
 
