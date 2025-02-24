@@ -48,9 +48,9 @@
 
   - Simulated a Windows networking environment used by organizations by housing Active Directory on a virtual machine as a domain controller
   - Created two network adaptors on domain controller for the internet and internal clients
-  - Configured domain, subnetting, NAT, and DHCP for the internal server
-  - Created 1,000 users on the internal server with a PowerShell script
-  - Logged in as one of the users from another virtual machine which was connected to the internal server
+  - Assigned IP addressing, configured **NAT**, routing, and **DHCP** for the internal server
+  - Created 1,000 users on the internal server with a **PowerShell** script
+  - Connected another virtual machine to the internal server and logged in as one of the users
 
 
 <h2>🛠️ Skills & Certifications</h2>
