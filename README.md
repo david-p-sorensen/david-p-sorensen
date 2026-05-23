@@ -1,24 +1,4 @@
-<h2>👨‍🎓 Education & Certifications</h2>
-
-- **University of Maryland, College Park** | Expected May 2027
-  - **B.S. in Computer Science, Mathematics, and Economics**
-    - **GPA**: 3.8
-    - **Relevant Coursework:** Computer Programming, Data Science, Machine Learning, Statistics, Data Structures, Algorithms, Microeconomic and Macroeconomic Analysis
-
-<h2>👨‍💼 Work Experience</h2>
-
-  - **IT Student Worker | University of Maryland | College Park, MD	| Jun 2024 - Present**
-    - Managed daily operations of 1,700+ **Jira** tickets spanning device onboarding, network diagnostics, printer support, event assistance, and infrastructure maintenance
-    - Performed live troubleshooting over the phone, during walk-ins, and at appointments
-    - Created instructional videos and fixed website formatting issues
-  - **AI Software Developer Intern | Intellectmap | Rockville, MD	| Aug 2023 - Jun 2024**
-    - Facilitated a transition from reliance on OpenAI to leveraging open-source **large language models** for the company chatbot, enhancing privacy and removing API usage fees
-    - Embedded company-specific data into the chatbot using **retrieval augmented generation**, ensuring tailored and dynamic responses for users 
-    - Created an automated mapping system using extensive **C#** and **Excel** functions to convert geographic data into coordinates on customizable map projections
-  - **Math Tutor | The Avalon School | Wheaton, MD | Jul 2021 - Jul 2023**
-    - Tutored over 50 high-schoolers, enabling them to avoid retaking math courses
-
-<h2>👨‍💻 Projects</h2>
+<h1>My Projects</h2>
 
 - [**Mapping Industry Concentration with LinkedIn Job Data**](https://github.com/david-p-sorensen/Location-Quotient-Visualization/blob/main/README.md)
   - Developed an automated data pipeline using **Python** and the OpenAI API to process and classify **124,000+ jobs** posted on LinkedIn, achieving granular industry and ownership categorization across all U.S. states
@@ -51,11 +31,3 @@
   - Assigned IP addressing, configured **NAT**, routing, and **DHCP** for the internal server
   - Created 1,000 users on the internal server with a **PowerShell** script
   - Connected another virtual machine to the internal server and logged in as one of the users
-
-
-<h2>🛠️ Skills & Certifications</h2>
-
-- **Programming Languages:** Java, Python, R, SQL, C#, C, MATLAB
-- **Developer Tools:** AWS, Git, Jupyter, VS Code, Eclipse, Jira, Excel
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Pytorch, Plotly, Shiny, OpenAI API
-- [**AWS Certified Cloud Practitioner (CLF-C02)**](https://www.credly.com/badges/8ce38848-bfdb-44f2-ae0b-cad3c7df4dea/public_url) | Jan 2024
